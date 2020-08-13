@@ -4,4 +4,8 @@
 
 -- Implemented buckets to avoid collisions.
 
+-- Front-end : Java (Swings)
+
+-- Back-end : MySql
+
 -- This was a File Structures Course Project.
