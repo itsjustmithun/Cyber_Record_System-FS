@@ -1,2 +1,4 @@
-# File Structure Course Project
-Simple project by implementing file operations to maintain cyber records using hashing with buckets.
+## File Structure Course Project
+
+File Record Application developed using the Hashing method.
+Implemented buckets to avoid collisions
